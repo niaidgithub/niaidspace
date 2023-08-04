@@ -82,7 +82,7 @@
         <update_guid_history>d6bb86b7146ea11039a57a586bd5d6de:455451119,f0bb4677a76ea110de642dd8d167c593:-1267604549,20884af3626ea1100b4a216f3f38fb4d:455451119,74784ef3676ea110e02729af75fa095e:-1267604549,ae36c673e16ea110485f524921e1b16b:455451119,6c364273ec6ea110433a2f24a9139e6b:-1267604549,14710e3f0c2ea110eab871816e40f6ad:455451119,1d618e3f3e2ea110e89f2dabb33f8cce:-1217648696,fd9db93b122ea1106a6128e5263c8d41:455451119,558d793b212ea110b3500e0906b17d03:-1217648696,3b1abd37432ea110eb16347736fa1439:455451119,961a3d37cc2ea11018208c3453a5b738:-1217648696,c6d430eaf52e2110c7835f71e747787e:455451119,610799f3cbaaa11045fd862255b05b58:2025809868,c6d430eaf52e2110c7835f71e747787e:455451119</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Permanent">1c501a3f1b6ea110fdd8848ce54bcb4c</sys_audit_delete>
+        <sys_audit_delete display_value="">1c501a3f1b6ea110fdd8848ce54bcb4c</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 20:50:05</sys_created_on>
