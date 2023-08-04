@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Could Share Office">832914ee1baa211080feea02f54bcb74</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-04 14:58:35</sys_created_on>
+        <sys_id>3a5994221bea211080feea02f54bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Yes</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>question_choice_3a5994221bea211080feea02f54bcb88</sys_update_name>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-04 14:58:35</sys_updated_on>
+        <text>Yes</text>
+        <value>yes</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=3a5994221bea211080feea02f54bcb88"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>3a5994221bea211080feea02f54bcb88</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-04 14:58:35</sys_created_on>
+        <sys_id>1089d4221bea211080feea02f54bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-04 14:58:35</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>3a5994221bea211080feea02f54bcb88</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-04 14:58:35</sys_created_on>
+        <sys_id>9489d4221bea211080feea02f54bcb86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-04 14:58:35</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</application>
+        <file_path/>
+        <instance_id>f9d018d91b5fd01041ab202de54bcbc2</instance_id>
+        <instance_name>niaiddev</instance_name>
+        <name>question_choice_3a5994221bea211080feea02f54bcb88</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>100</order><published_ref/><question display_value="Could Share Office">832914ee1baa211080feea02f54bcb74</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>jatothr2</sys_created_by><sys_created_on>2023-05-04 14:58:35</sys_created_on><sys_id>3a5994221bea211080feea02f54bcb88</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Yes</sys_name><sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package><sys_policy/><sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope><sys_update_name>question_choice_3a5994221bea211080feea02f54bcb88</sys_update_name><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-04 14:58:35</sys_updated_on><text>Yes</text><value>yes</value></question_choice><fx_price action="delete_multiple" query="id=3a5994221bea211080feea02f54bcb88"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>3a5994221bea211080feea02f54bcb88</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>jatothr2</sys_created_by><sys_created_on>2023-05-04 14:58:35</sys_created_on><sys_id>1089d4221bea211080feea02f54bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-04 14:58:35</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>3a5994221bea211080feea02f54bcb88</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>jatothr2</sys_created_by><sys_created_on>2023-05-04 14:58:35</sys_created_on><sys_id>9489d4221bea211080feea02f54bcb86</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-04 14:58:35</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>28315818</payload_hash>
+        <record_name>Yes</record_name>
+        <reverted_from/>
+        <source>ef4f913f1baaa110fdd8848ce54bcb2f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 17:16:10</sys_created_on>
+        <sys_id>f65f153f1baaa110fdd8848ce54bcb57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187fc5d10e90000001</sys_recorded_at>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 17:16:10</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>1c89d4225cea2110c9cae78e56125888</update_guid>
+        <update_guid_history>1c89d4225cea2110c9cae78e56125888:28315818,b00759f396aaa1105f82721f3df83a37:1688172487,1c89d4225cea2110c9cae78e56125888:28315818</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Yes">373522331beea110fdd8848ce54bcb31</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 22:21:32</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>1e07df62f79b402f99fe52bece824051</sys_id>
+        <sys_metadata>3a5994221bea211080feea02f54bcb88</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Yes</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_scope_delete display_value="">21ade2053b7c42748670febcbaadb310</sys_scope_delete>
+        <sys_update_name>question_choice_3a5994221bea211080feea02f54bcb88</sys_update_name>
+        <sys_update_version display_value="question_choice_3a5994221bea211080feea02f54bcb88">f65f153f1baaa110fdd8848ce54bcb57</sys_update_version>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 22:21:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

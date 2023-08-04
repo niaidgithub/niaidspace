@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_catalog>false</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>true</applies_req_item>
+        <applies_sc_task>true</applies_sc_task>
+        <applies_target_record>false</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Request for Additional NIAID Space">28809b011b46e95080feea02f54bcbdb</cat_item>
+        <cat_variable/>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Make All the fields Read Only</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+	
+	g_form.setReadOnly("current_and_projected_staffing",true);
+	g_form.setReadOnly("staff_name",true);
+	g_form.setReadOnly("title_function",true);
+	g_form.setReadOnly("federal_contract",true);
+	g_form.setReadOnly("current_assigned_to_group",true);
+	g_form.setReadOnly("current_location",true);
+	g_form.setReadOnly("requires_private_office",true);
+	g_form.setReadOnly("could_share_office",true);
+	g_form.setReadOnly("could_open_ws",true);
+	g_form.setReadOnly("arrival_date",true);
+	g_form.setReadOnly("date_space_needed",true);
+	g_form.setReadOnly("estimated_renovation_completion_date",true);
+	g_form.setReadOnly("estimated_renovation_start_date",true);
+	g_form.setReadOnly("add_description",true);
+	g_form.setReadOnly("niaid_division",true);
+	g_form.setReadOnly("branch_office_lab",true);
+	g_form.setReadOnly("director_officer_head",true);
+	g_form.setReadOnly("division_director_officer",true);
+	g_form.setReadOnly("adminstrative_officer_aware",true);
+	g_form.setReadOnly("administrative_officer_s_name",true);
+	g_form.setReadOnly("request_for",true);
+	g_form.setReadOnly("add_space_building",true);
+	g_form.setReadOnly("Niaid_floor",true);
+	g_form.setReadOnly("room_details",true);
+	g_form.setReadOnly("additional_space_identify",true);
+	g_form.setReadOnly("niaid_nih_organizations",true);
+	g_form.setReadOnly("meet_your_space_needs",true);
+	
+   
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-07-06 21:35:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2a2016fe1bb7e15080feea02f54bcb0e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Make All the fields Read Only</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>catalog_script_client_2a2016fe1bb7e15080feea02f54bcb0e</sys_update_name>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-07-10 17:03:21</sys_updated_on>
+        <table/>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+</record_update>

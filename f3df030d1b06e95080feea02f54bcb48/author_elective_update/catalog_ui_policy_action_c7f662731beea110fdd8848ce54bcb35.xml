@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Request for Additonal NIAID Space">28809b011b46e95080feea02f54bcbdb</catalog_item>
+        <catalog_variable>IO:3f718a211b2ea910fdd8848ce54bcb4d</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 22:29:07</sys_created_on>
+        <sys_id>c7f662731beea110fdd8848ce54bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Niaid_floor</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_c7f662731beea110fdd8848ce54bcb35</sys_update_name>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 22:29:07</sys_updated_on>
+        <table/>
+        <ui_policy display_value="If request for is temporary make the field visible and mandatory">593662731beea110fdd8848ce54bcb2c</ui_policy>
+        <variable>Niaid_floor</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</application>
+        <file_path/>
+        <instance_id>f9d018d91b5fd01041ab202de54bcbc2</instance_id>
+        <instance_name>niaiddev</instance_name>
+        <name>catalog_ui_policy_action_c7f662731beea110fdd8848ce54bcb35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Request for Additonal NIAID Space">28809b011b46e95080feea02f54bcbdb</catalog_item><catalog_variable>IO:3f718a211b2ea910fdd8848ce54bcb4d</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>true</mandatory><order>200</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>jatothr2</sys_created_by><sys_created_on>2023-05-08 22:29:07</sys_created_on><sys_id>c7f662731beea110fdd8848ce54bcb35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Niaid_floor</sys_name><sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package><sys_policy/><sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope><sys_update_name>catalog_ui_policy_action_c7f662731beea110fdd8848ce54bcb35</sys_update_name><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-08 22:29:07</sys_updated_on><table/><ui_policy display_value="If request for is temporary make the field visible and mandatory">593662731beea110fdd8848ce54bcb2c</ui_policy><variable>Niaid_floor</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-279557142</payload_hash>
+        <record_name>Niaid_floor</record_name>
+        <reverted_from/>
+        <source>e366bd331b2ea110fdd8848ce54bcb1e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 22:29:07</sys_created_on>
+        <sys_id>07f6ea731beea110fdd8848ce54bcbe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187fd7b95780000001</sys_recorded_at>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 22:29:07</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>0ff6ea7393eea1105866b7b264e26fe7</update_guid>
+        <update_guid_history>0ff6ea7393eea1105866b7b264e26fe7:-279557142</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Niaid_floor">20fa22b71beea110fdd8848ce54bcb0e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 22:46:25</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>c95e7d1fe5c1406c9879c7547e7a5c90</sys_id>
+        <sys_metadata>c7f662731beea110fdd8848ce54bcb35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Niaid_floor</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_scope_delete display_value="">21ade2053b7c42748670febcbaadb310</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_c7f662731beea110fdd8848ce54bcb35</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_c7f662731beea110fdd8848ce54bcb35">07f6ea731beea110fdd8848ce54bcbe8</sys_update_version>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 22:46:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

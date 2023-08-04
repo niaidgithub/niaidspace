@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Request for Additional NIAID Space">28809b011b46e95080feea02f54bcbdb</catalog_item>
+        <catalog_variable>IO:568ff1ad1beaa910fdd8848ce54bcb73</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 22:45:58</sys_created_on>
+        <sys_id>ddba2e771beea110fdd8848ce54bcb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>add_space_building</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_ddba2e771beea110fdd8848ce54bcb95</sys_update_name>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 22:45:58</sys_updated_on>
+        <table/>
+        <ui_policy display_value="If request for is temporary make the field visible and mandatory ">258a66371beea110fdd8848ce54bcb20</ui_policy>
+        <variable>add_space_building</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

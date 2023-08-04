@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>current_and_projected_staffing</internal_name>
+        <layout>2across</layout>
+        <name/>
+        <order>18000</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-11 18:57:41</sys_created_on>
+        <sys_id>10733e0b1bc22510fdd8848ce54bcbd1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Current and projected staffing</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>item_option_new_set_10733e0b1bc22510fdd8848ce54bcbd1</sys_update_name>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 21:43:39</sys_updated_on>
+        <title>Current and projected staffing</title>
+        <type>one_to_many</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

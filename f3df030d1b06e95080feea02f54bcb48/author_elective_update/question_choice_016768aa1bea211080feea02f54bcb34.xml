@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Is Adminstrative Officer aware of request?">699cdca21bea211080feea02f54bcbdc</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-04 15:59:15</sys_created_on>
+        <sys_id>016768aa1bea211080feea02f54bcb34</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>No</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>question_choice_016768aa1bea211080feea02f54bcb34</sys_update_name>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 20:31:45</sys_updated_on>
+        <text>No</text>
+        <value>no</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=016768aa1bea211080feea02f54bcb34"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>016768aa1bea211080feea02f54bcb34</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-04 15:59:15</sys_created_on>
+        <sys_id>496768aa1bea211080feea02f54bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-04 15:59:15</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>016768aa1bea211080feea02f54bcb34</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-04 15:59:15</sys_created_on>
+        <sys_id>cd6768aa1bea211080feea02f54bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-04 15:59:15</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</application>
+        <file_path/>
+        <instance_id>f9d018d91b5fd01041ab202de54bcbc2</instance_id>
+        <instance_name>niaiddev</instance_name>
+        <name>question_choice_016768aa1bea211080feea02f54bcb34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><misc>0</misc><order>200</order><published_ref/><question display_value="Is Adminstrative Officer aware of request?">699cdca21bea211080feea02f54bcbdc</question><rec_misc>0</rec_misc><sys_class_name>question_choice</sys_class_name><sys_created_by>jatothr2</sys_created_by><sys_created_on>2023-05-04 15:59:15</sys_created_on><sys_id>016768aa1bea211080feea02f54bcb34</sys_id><sys_mod_count>6</sys_mod_count><sys_name>No</sys_name><sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package><sys_policy/><sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope><sys_update_name>question_choice_016768aa1bea211080feea02f54bcb34</sys_update_name><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-08 20:31:45</sys_updated_on><text>No</text><value>no</value></question_choice><fx_price action="delete_multiple" query="id=016768aa1bea211080feea02f54bcb34"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>misc</field><id>016768aa1bea211080feea02f54bcb34</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>jatothr2</sys_created_by><sys_created_on>2023-05-04 15:59:15</sys_created_on><sys_id>496768aa1bea211080feea02f54bcb35</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-04 15:59:15</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>rec_misc</field><id>016768aa1bea211080feea02f54bcb34</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>jatothr2</sys_created_by><sys_created_on>2023-05-04 15:59:15</sys_created_on><sys_id>cd6768aa1bea211080feea02f54bcb34</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-04 15:59:15</sys_updated_on><table>question_choice</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>2037501715</payload_hash>
+        <record_name>No</record_name>
+        <reverted_from/>
+        <source>e366bd331b2ea110fdd8848ce54bcb1e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 20:31:45</sys_created_on>
+        <sys_id>6b1ccab71b6ea110fdd8848ce54bcbb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187fd101fae0000001</sys_recorded_at>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 20:31:45</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>ef1ccab7c36ea1102210b036667ae5b1</update_guid>
+        <update_guid_history>ef1ccab7c36ea1102210b036667ae5b1:2037501715,660c4eb7056ea110531d1a2ca4746799:907898623,a896ca73916ea110fe8bbcf6197bc7ff:2037501715,cf86ca73de6ea1104958d5f6bce38bf2:907898623,dfbd3d3b0b2ea1108898630e4b083d76:2037501715,64bdf93bb52ea1100e11dd4dcf9e74ea:-1399147750,1c2b31b73d2ea110a00d141b4c510e36:2037501715,5d1bbd77352ea1106405cc82c2e02215:-1399147750,056768aaa8ea211066f888365824b737:2037501715,d00719f3c2aaa1103861d99f1567b6c9:1994423896,056768aaa8ea211066f888365824b737:2037501715</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="No">2ec5d6731baea110fdd8848ce54bcb6f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 21:14:00</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>00cab466cdca498880085a4dd93803e4</sys_id>
+        <sys_metadata>016768aa1bea211080feea02f54bcb34</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>No</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_scope_delete display_value="">21ade2053b7c42748670febcbaadb310</sys_scope_delete>
+        <sys_update_name>question_choice_016768aa1bea211080feea02f54bcb34</sys_update_name>
+        <sys_update_version display_value="question_choice_016768aa1bea211080feea02f54bcb34">6b1ccab71b6ea110fdd8848ce54bcbb2</sys_update_version>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 21:14:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Copy of Additional Space">2603720b1bc22510fdd8848ce54bcb48</sc_cat_item>
+        <sc_category display_value="OWS Service Requests">8cfc7d461b29e910fdd8848ce54bcb11</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-11 18:54:58</sys_created_on>
+        <sys_id>ee03760b1bc22510fdd8848ce54bcb74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OWS Service Requests.Copy of Additional Space</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>sc_cat_item_category_ee03760b1bc22510fdd8848ce54bcb74</sys_update_name>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2023-04-11 18:54:58</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</application>
+        <file_path/>
+        <instance_id>f9d018d91b5fd01041ab202de54bcbc2</instance_id>
+        <instance_name>niaiddev</instance_name>
+        <name>sc_cat_item_category_ee03760b1bc22510fdd8848ce54bcb74</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of Additional Space">2603720b1bc22510fdd8848ce54bcb48</sc_cat_item><sc_category display_value="OWS Service Requests">8cfc7d461b29e910fdd8848ce54bcb11</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>bassem</sys_created_by><sys_created_on>2023-04-11 18:54:58</sys_created_on><sys_id>ee03760b1bc22510fdd8848ce54bcb74</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OWS Service Requests.Copy of Additional Space</sys_name><sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package><sys_policy/><sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope><sys_update_name>sc_cat_item_category_ee03760b1bc22510fdd8848ce54bcb74</sys_update_name><sys_updated_by>bassem</sys_updated_by><sys_updated_on>2023-04-11 18:54:58</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-774670545</payload_hash>
+        <record_name>OWS Service Requests.Copy of Additional Space</record_name>
+        <reverted_from/>
+        <source>7bdf030d1b06e95080feea02f54bcb4a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-11 18:54:58</sys_created_on>
+        <sys_id>2603760b1bc22510fdd8848ce54bcb78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18771abd2e80000001</sys_recorded_at>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2023-04-11 18:54:58</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>2e03760b89c22510232fb2de26bce677</update_guid>
+        <update_guid_history>2e03760b89c22510232fb2de26bce677:-774670545</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="OWS Service Requests.Copy of Additional Space">6153ba0b1bc22510fdd8848ce54bcb3c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-11 18:56:16</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2fad23807e1d4d458238a608e7cd1491</sys_id>
+        <sys_metadata>ee03760b1bc22510fdd8848ce54bcb74</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OWS Service Requests.Copy of Additional Space</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_scope_delete display_value="">21ade2053b7c42748670febcbaadb310</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_ee03760b1bc22510fdd8848ce54bcb74</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_ee03760b1bc22510fdd8848ce54bcb74">2603760b1bc22510fdd8848ce54bcb78</sys_update_version>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2023-04-11 18:56:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

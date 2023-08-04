@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="ADDITIONAL NIAID SPACE">28809b011b46e95080feea02f54bcbdb</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-05 16:10:32</sys_created_on>
+        <sys_id>67d3d3c11b46e95080feea02f54bcbde</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Requested By/For.ADDITIONAL NIAID SPACE</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>io_set_item_67d3d3c11b46e95080feea02f54bcbde</sys_update_name>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2023-04-05 16:10:32</sys_updated_on>
+        <variable_set display_value="Requested By/For">1a7c17a31b33c110fdd8848ce54bcb31</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</application>
+        <file_path/>
+        <instance_id>f9d018d91b5fd01041ab202de54bcbc2</instance_id>
+        <instance_name>niaiddev</instance_name>
+        <name>io_set_item_67d3d3c11b46e95080feea02f54bcbde</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="ADDITIONAL NIAID SPACE">28809b011b46e95080feea02f54bcbdb</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>bassem</sys_created_by><sys_created_on>2023-04-05 16:10:32</sys_created_on><sys_id>67d3d3c11b46e95080feea02f54bcbde</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Requested By/For.ADDITIONAL NIAID SPACE</sys_name><sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package><sys_policy/><sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope><sys_update_name>io_set_item_67d3d3c11b46e95080feea02f54bcbde</sys_update_name><sys_updated_by>bassem</sys_updated_by><sys_updated_on>2023-04-05 16:10:32</sys_updated_on><variable_set display_value="Requested By/For">1a7c17a31b33c110fdd8848ce54bcb31</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>1323732354</payload_hash>
+        <record_name>Requested By/For.ADDITIONAL NIAID SPACE</record_name>
+        <reverted_from/>
+        <source>7bdf030d1b06e95080feea02f54bcb4a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-05 16:10:32</sys_created_on>
+        <sys_id>27d39fc11b46e95080feea02f54bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187522f20790000001</sys_recorded_at>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2023-04-05 16:10:32</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>2fd39fc19b46e950447ca6862a2bff8d</update_guid>
+        <update_guid_history>2fd39fc19b46e950447ca6862a2bff8d:1323732354</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Requested By/For.ADDITIONAL NIAID SPACE">72e4724b1bc22510fdd8848ce54bcb67</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-11 19:03:11</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>a6ea12dad6b344a88cdbadfd20475440</sys_id>
+        <sys_metadata>67d3d3c11b46e95080feea02f54bcbde</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requested By/For.ADDITIONAL NIAID SPACE</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_scope_delete display_value="">21ade2053b7c42748670febcbaadb310</sys_scope_delete>
+        <sys_update_name>io_set_item_67d3d3c11b46e95080feea02f54bcbde</sys_update_name>
+        <sys_update_version display_value="io_set_item_67d3d3c11b46e95080feea02f54bcbde">27d39fc11b46e95080feea02f54bcb8e</sys_update_version>
+        <sys_updated_by>bassem</sys_updated_by>
+        <sys_updated_on>2023-04-11 19:03:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
