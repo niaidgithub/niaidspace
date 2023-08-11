@@ -42,7 +42,7 @@
         <update_guid_history>2fd39fc19b46e950447ca6862a2bff8d:1323732354</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">72e4724b1bc22510fdd8848ce54bcb67</sys_audit_delete>
+        <sys_audit_delete display_value="Requested By/For.ADDITIONAL NIAID SPACE">72e4724b1bc22510fdd8848ce54bcb67</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>bassem</sys_created_by>
         <sys_created_on>2023-04-11 19:03:11</sys_created_on>

@@ -77,7 +77,7 @@
         <update_guid_history>060e5e3b3eaea110c05b08194fb4a531:-1980373398,3757e9f312eaa110bdde5dc3f9ad376e:-1899590511,ce5725377ceaa110d83456aca05d60d2:1244225526,8bc35a2628a26110e353cf57cc16009a:-1899590511,ca07d9f30baaa110499e84fe3163fa5e:-1229204347,8bc35a2628a26110e353cf57cc16009a:-1899590511</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">9d266e331beea110fdd8848ce54bcbf1</sys_audit_delete>
+        <sys_audit_delete display_value="If request for is temporary make the fieldsvisible and mandatory">9d266e331beea110fdd8848ce54bcbf1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:25:27</sys_created_on>
