@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="859a00c41b7c3d10fdd8848ce54bcb20" extends="sys_import_set_row" label="Imp Tmpl Alm Hardware" max_length="40" name="u_imp_tmpl_alm_hardware" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Apple Business Manager" label="Apple Business Manager" max_length="40" name="u_apple_business_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset tag" label="Asset tag" max_length="40" name="u_asset_tag" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Assigned to" label="Assigned to" max_length="32" name="u_assigned_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost" label="Cost" max_length="20" name="u_cost" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost center" label="Cost center" max_length="32" name="u_cost_center" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Display name" label="Display name" max_length="255" name="u_display_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Location" label="Location" max_length="32" name="u_location" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Managed by" label="Managed by" max_length="32" name="u_managed_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="32" name="u_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model category" label="Model category" max_length="32" name="u_model_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owned by" label="Owned by" max_length="32" name="u_owned_by" type="string"/>
+        <element attributes="import_attribute_name=Quantity" label="Quantity" max_length="40" name="u_quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Serial number" label="Serial number" max_length="100" name="u_serial_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=State" label="State" max_length="40" name="u_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Stockroom" label="Stockroom" max_length="32" name="u_stockroom" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Substate" label="Substate" max_length="40" name="u_substate" type="string"/>
+    </element>
+</database>
