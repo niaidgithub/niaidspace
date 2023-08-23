@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>18000</order>
+        <sc_cat_item display_value="Request for Additonal NIAID Space">28809b011b46e95080feea02f54bcbdb</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>bassem</sys_created_by>
+        <sys_created_on>2023-04-11 18:57:41</sys_created_on>
+        <sys_id>d6a37a0b1bc22510fdd8848ce54bcbf4</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Current and projected.Request for Additonal NIAID Space</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_update_name>io_set_item_d6a37a0b1bc22510fdd8848ce54bcbf4</sys_update_name>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-05 19:47:55</sys_updated_on>
+        <variable_set display_value="Current and projected">10733e0b1bc22510fdd8848ce54bcbd1</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</application>
+        <file_path/>
+        <instance_id>f9d018d91b5fd01041ab202de54bcbc2</instance_id>
+        <instance_name>niaiddev</instance_name>
+        <name>io_set_item_d6a37a0b1bc22510fdd8848ce54bcbf4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>18000</order><sc_cat_item display_value="Request for Additonal NIAID Space">28809b011b46e95080feea02f54bcbdb</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>bassem</sys_created_by><sys_created_on>2023-04-11 18:57:41</sys_created_on><sys_id>d6a37a0b1bc22510fdd8848ce54bcbf4</sys_id><sys_mod_count>3</sys_mod_count><sys_name>Current and projected.Request for Additonal NIAID Space</sys_name><sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package><sys_policy/><sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope><sys_update_name>io_set_item_d6a37a0b1bc22510fdd8848ce54bcbf4</sys_update_name><sys_updated_by>jatothr2</sys_updated_by><sys_updated_on>2023-05-05 19:47:55</sys_updated_on><variable_set display_value="Current and projected">10733e0b1bc22510fdd8848ce54bcbd1</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>782253126</payload_hash>
+        <record_name>Current and projected.Request for Additonal NIAID Space</record_name>
+        <reverted_from/>
+        <source>ef4f913f1baaa110fdd8848ce54bcb2f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-05-08 17:16:07</sys_created_on>
+        <sys_id>ca5fd13f1baaa110fdd8848ce54bcb36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187fc5d04560000001</sys_recorded_at>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-05-08 17:16:07</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>1055ee322ce2a110d3c408f8b047d1b7</update_guid>
+        <update_guid_history>1055ee322ce2a110d3c408f8b047d1b7:782253126,2207d9f337aaa110a14759bd0ed9b9da:0,1055ee322ce2a110d3c408f8b047d1b7:782253126,688a72cf15c22510b0076756dc401466:1942459516,d6a3324bfcc22510a068623a8fe44710:1787995340</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Current and projected.Request for Additonal NIAID Space">82229c021bb8f110fdd8848ce54bcbf1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jatothr2</sys_created_by>
+        <sys_created_on>2023-08-22 21:30:48</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>5ee47ecd63524008a2f1057cef2358a9</sys_id>
+        <sys_metadata>d6a37a0b1bc22510fdd8848ce54bcbf4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Current and projected.Request for Additonal NIAID Space</sys_name>
+        <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
+        <sys_scope_delete display_value="">21ade2053b7c42748670febcbaadb310</sys_scope_delete>
+        <sys_update_name>io_set_item_d6a37a0b1bc22510fdd8848ce54bcbf4</sys_update_name>
+        <sys_update_version display_value="io_set_item_d6a37a0b1bc22510fdd8848ce54bcbf4">ca5fd13f1baaa110fdd8848ce54bcb36</sys_update_version>
+        <sys_updated_by>jatothr2</sys_updated_by>
+        <sys_updated_on>2023-08-22 21:30:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
