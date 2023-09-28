@@ -42,7 +42,7 @@
         <update_guid_history>b603760b46c22510e93497d7c2ef8f95:-1915026567</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Requested By/For.Copy of Additional Space">7d53ba0b1bc22510fdd8848ce54bcb97</sys_audit_delete>
+        <sys_audit_delete display_value="">7d53ba0b1bc22510fdd8848ce54bcb97</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>bassem</sys_created_by>
         <sys_created_on>2023-04-11 18:56:17</sys_created_on>

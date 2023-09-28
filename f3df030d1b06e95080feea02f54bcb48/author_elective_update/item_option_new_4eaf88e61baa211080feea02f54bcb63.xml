@@ -169,7 +169,7 @@
         <update_guid_history>7f5d5a3be9aea1107fcee39057f0bbd4:1033989985,d5cc123bb0aea1102b4498d3606ed63c:1163098553,14bc9ef793aea1105ec23023b2553e2c:-106222038,dfea52b717aea11016e338e755d9ba7f:1699329637,76dade7787aea110d533712c7712b8b4:655167188,0fbefd7b992ea110c73f5e5cc313faf2:1699329637,8b9e7d7bce2ea110df0b19e2d835fc06:655167188,5d1665f3b3eaa110ff28614962704fa5:1699329637,4a0625f387eaa110dbe107f59bf49df0:655167188,f74726f273e2a11062555f4e4053f39c:1699329637,300759f37baaa1107c76b57e22cab478:315137922,f74726f273e2a11062555f4e4053f39c:1699329637,03b95aaa62a261107fc6e0ef9588e154:-1160388090,1be8502245ea2110209191872c614609:1115721861,00d710ee2baa21108e44a8228ec3a10d:-1914010344</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Cound Use Open WS">c6a4e6ff1baea110fdd8848ce54bcbcf</sys_audit_delete>
+        <sys_audit_delete display_value="">c6a4e6ff1baea110fdd8848ce54bcbcf</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:18:57</sys_created_on>
