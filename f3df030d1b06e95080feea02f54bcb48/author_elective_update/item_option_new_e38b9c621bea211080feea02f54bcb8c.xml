@@ -169,7 +169,7 @@
         <update_guid_history>d8e642b3166ea110aaf38ded227704fe:753832118,49d642b3e26ea110c580489584524c61:-885351618,0e0e717ba82ea1105fc3c686cadb82a2:753832118,13fd317bc02ea11049be36fe5cb9176e:-1430477337,62e262be1ca2a11015461903639f416b:753832118,ea8a3577812ea11062f2105205e3da6f:-1430477337,f586b5737e2ea1105a5d8e096f72105d:753832118,36163d33302ea1108551baf7e99b59ce:-1430477337,51c3ad3367eaa110079c1dc255b0a70a:753832118,37b36d333aeaa11066159d2782c1a6da:-1430477337,62e262be1ca2a11015461903639f416b:753832118,1207d9f374aaa11012155cdd9f40ad9a:-725270693,62e262be1ca2a11015461903639f416b:753832118,bdc0f9fa73ee6110ef8a9d1f68115b89:-742090658,a65992aaf7a26110973a9b0a17139622:-1509991777,23eb1ca2bfea21107b70160245ca2abb:873773694</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">3b791a371baea110fdd8848ce54bcb71</sys_audit_delete>
+        <sys_audit_delete display_value="Division Director/Officer Head Concurrence">3b791a371baea110fdd8848ce54bcb71</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 21:30:11</sys_created_on>

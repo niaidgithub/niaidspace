@@ -169,7 +169,7 @@
         <update_guid_history>5dd4ed7304eaa11077c688c8f60c2ebe:1260736116,37c4ed73d6eaa11018c4fb389d5b2668:1560681637,e4a6e6b26ee2a110c5efc7ebb733e58c:1260736116,9607d9f371aaa110893b5886f65a5d73:-680600679,e4a6e6b26ee2a110c5efc7ebb733e58c:1260736116,8fa5a67275e2a110d80ef127500ee5af:-701307467,559bc26e1d626110a60f51c5e80886ff:-574095076,558bc26e96626110b70e80463fbe9045:412506008</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">431362bf1baea110fdd8848ce54bcb43</sys_audit_delete>
+        <sys_audit_delete display_value="Is there anything more we should know to help us meet your space needs?">431362bf1baea110fdd8848ce54bcb43</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:12:12</sys_created_on>

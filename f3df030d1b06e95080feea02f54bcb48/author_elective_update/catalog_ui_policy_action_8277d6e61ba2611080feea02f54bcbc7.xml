@@ -51,7 +51,7 @@
         <update_guid_history>0677d6e6f7a26110e3ed99fbd41343c9:-1048621032,e10799f335aaa110f0545f82247af552:-1116940660,0677d6e6f7a26110e3ed99fbd41343c9:-1048621032</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">51266e331beea110fdd8848ce54bcbe5</sys_audit_delete>
+        <sys_audit_delete display_value="estimated_renovation_completion_date">51266e331beea110fdd8848ce54bcbe5</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:25:27</sys_created_on>

@@ -41,7 +41,7 @@
         <update_guid_history>2e03720bafc22510879fe44a4daf6251:-1745557245</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">99537a0b1bc22510fdd8848ce54bcb82</sys_audit_delete>
+        <sys_audit_delete display_value="Service Catalog.Copy of Additional Space">99537a0b1bc22510fdd8848ce54bcb82</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>bassem</sys_created_by>
         <sys_created_on>2023-04-11 18:56:15</sys_created_on>

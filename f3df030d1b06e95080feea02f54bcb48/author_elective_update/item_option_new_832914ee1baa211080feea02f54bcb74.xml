@@ -169,7 +169,7 @@
         <update_guid_history>054d1a3bebaea1106f7e146c606dae75:-489048461,51cc123b0aaea110a90303ac92b9a06c:590608623,6cbc9ef7edaea1102d1cb8008cfa9167:-847043874,6bea52b791aea11068fba8b16c244faf:-1359121425,8fdade7738aea110525bbe2d167d54ef:445485344,97be31bbf42ea110804659d1c8f76522:-1359121425,1f9e7d7b112ea110f43bedc3e1051742:445485344,5236e5f317eaa1107bc76db7541089d1:-1359121425,2a26e5f32deaa11071fc56065d029105:445485344,49c7eef29ee2a11050f9221ac3cda568:-1359121425,390799f3abaaa1106dbdd520ad276376:-1393367500,49c7eef29ee2a11050f9221ac3cda568:-1359121425,6ad9daaa00a26110e4195e1f7215ad42:-238643026,3449942295ea2110dcb9315f7778b83e:-1590762033</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">7b3522331beea110fdd8848ce54bcb40</sys_audit_delete>
+        <sys_audit_delete display_value="Could Share Office">7b3522331beea110fdd8848ce54bcb40</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:21:32</sys_created_on>

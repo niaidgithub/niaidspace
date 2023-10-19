@@ -169,7 +169,7 @@
         <update_guid_history>97fa7d77b12ea1101bbc2f1ab1848475:-1714408615,54fa3d77082ea1100e457fa1f06b0ba2:-596787126,81867573412ea1103ce96a46a1eb3a83:-1714408615,f2163d33032ea1105f1bf301b44e83e1:-596787126,9dd3ed338aeaa11034afa471b8222506:-1714408615,27c3ad33bceaa110ec2f0781bf55647f:-596787126,0f1366bef4a2a110f7e59602334f3bd2:-1714408615,4d0759f38aaaa1105bde09220571b8ba:-234288034,0f1366bef4a2a110f7e59602334f3bd2:-1714408615,a4c0b9fa15ee611099c6860bb55d71f0:218737148,016992aa17a2611039865d13de55f0ea:1000136701,14ecdce260ea21103221e9f8baf73817:-1713781732</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">aec5d6731baea110fdd8848ce54bcba5</sys_audit_delete>
+        <sys_audit_delete display_value="Is Adminstrative Officer aware of request?">aec5d6731baea110fdd8848ce54bcba5</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 21:14:00</sys_created_on>

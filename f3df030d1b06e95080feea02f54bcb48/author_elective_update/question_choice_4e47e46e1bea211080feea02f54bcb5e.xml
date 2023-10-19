@@ -82,7 +82,7 @@
         <update_guid_history>70fb0eb7a86ea110b773107ad693f926:359665558,5febc2b7436ea110fc72b8ab713a2679:1674990804,6b76c6733b6ea11080ef15771a2b4ddd:359665558,c6764e33176ea110521a1ad0afb0e0f8:1674990804,9bbdb93bac2ea110458bcf2935a8525a:359665558,2cbdf93b172ea110231298586eed03e4:-1729111505,831bf577652ea110782552a239db6a58:359665558,001bbd773d2ea11046f661261e8dc4d9:-1729111505,a057a46ecdea2110fa6d248056277385:359665558,7c0759f365aaa1102bbd150a0d218b42:-1170597101,a057a46ecdea2110fa6d248056277385:359665558</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">aec5d6731baea110fdd8848ce54bcb9e</sys_audit_delete>
+        <sys_audit_delete display_value="Yes">aec5d6731baea110fdd8848ce54bcb9e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 21:14:00</sys_created_on>
