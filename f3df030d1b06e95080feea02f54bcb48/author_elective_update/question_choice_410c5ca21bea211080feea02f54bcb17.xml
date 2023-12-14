@@ -82,7 +82,7 @@
         <update_guid_history>705c82f7996ea1109797e935fb0a8c5e:-1561879286,9b4c42f70c6ea110a3e37ba2f1247995:887035720,c20706b32e6ea11052c174db8dcc8dbb:-1561879286,a40782b3a46ea110aaefe0fe7ccbf6ba:887035720,daf6c2b3326ea110d6f56ad3c7ac65a8:-1561879286,bcf6c2b3306ea110ac2545ff9c56d120:887035720,462e717bae2ea110e3bc825dc42dbefb:-1561879286,ec2ef17bfd2ea11058eb3b8e9d9b00b4:644310947,44babd37ea2ea11036300125bea7eb45:-1561879286,22aaf1777b2ea110a60029dd7a9ca104:644310947,801c9ca298ea21103b3d1c1ed77d95ec:-1561879286,fc0759f303aaa110525088739450c73c:1269376807,801c9ca298ea21103b3d1c1ed77d95ec:-1561879286</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">73791a371baea110fdd8848ce54bcb5e</sys_audit_delete>
+        <sys_audit_delete display_value="Yes">73791a371baea110fdd8848ce54bcb5e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 21:30:11</sys_created_on>

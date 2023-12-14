@@ -169,7 +169,7 @@
         <update_guid_history>fc060673ab6ea110e9035494014c0a43:1543463451,6cf5c273fa6ea11098b9677dd9103230:-821841903,1f21ca3fac2ea110e289e2d7568eb360:1543463451,4c218a3f2f2ea110a2e49570d53a1c6d:-760801396,ed867573702ea110a63a599b1640fce7:1543463451,53167d33392ea11012293d3b78176a42:-760801396,7024e173fbeaa1105682b298a1bbc559:1543463451,8714e173edeaa110e0705fbd2bad8823:-760801396,5393aebe27a2a1109581a361da9550aa:1543463451,4a07d9f36baaa1107c0f631f003f9937:462628672,5393aebe27a2a1109581a361da9550aa:1543463451,ee70b5fa4fee61103b1d382726dd31bb:164670029,eca8966a90a261107dbb2853f1e23fb5:-205754452,01847caa9a2e211044f53cbf426e433c:1495252013</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">6c501a3f1b6ea110fdd8848ce54bcb82</sys_audit_delete>
+        <sys_audit_delete display_value="Request is for">6c501a3f1b6ea110fdd8848ce54bcb82</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 20:50:06</sys_created_on>

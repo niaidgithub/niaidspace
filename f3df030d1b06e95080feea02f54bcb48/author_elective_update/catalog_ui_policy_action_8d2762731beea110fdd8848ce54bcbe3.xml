@@ -51,7 +51,7 @@
         <update_guid_history>c5276e73e0eea1102f9c3cd54ef3a4f2:574548966</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">10faee771beea110fdd8848ce54bcbf9</sys_audit_delete>
+        <sys_audit_delete display_value="room_details">10faee771beea110fdd8848ce54bcbf9</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:46:25</sys_created_on>

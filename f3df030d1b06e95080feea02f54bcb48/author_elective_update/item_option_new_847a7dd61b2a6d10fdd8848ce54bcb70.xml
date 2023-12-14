@@ -169,7 +169,7 @@
         <update_guid_history>072d963b05aea110e25404b377acd34c:2040000040,a9cc123bc5aea11071ec898364925195:-1755513216,e4bc9ef73baea11094c12f7048c80e7a:-698937231,27ea52b7d2aea110907aeaa1d06191c0:1141085182,cfda12b7f5aea110ab220e20c478660e:-1862443283,1bbe31bb552ea110a3d47e065ae0c03f:1141085182,139e7d7b0e2ea110f65593c279690d62:-1862443283,d0f5e1f3f5eaa110a896a6845711cde1:1141085182,89e5a1f3d3eaa110e7c984a54ece9de6:-1862443283,525766f2cae2a1102320d6bc45a2819e:1141085182,310799f381aaa11035278055b115dbcd:1676746427,525766f2cae2a1102320d6bc45a2819e:1141085182,be9996aa8ca26110b317dd41f07345e4:-117529313,547d79da542a6d10618e545d236a3752:1047010846,027cb95a182a6d10189f7ed1cb5cd4d5:2074412384</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="">0ef36ebf1baea110fdd8848ce54bcb47</sys_audit_delete>
+        <sys_audit_delete display_value="Requires Private Office">0ef36ebf1baea110fdd8848ce54bcb47</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:15:57</sys_created_on>
