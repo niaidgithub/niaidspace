@@ -51,7 +51,7 @@
         <update_guid_history>75079ae6f4a261105755af7a8a9ab7a1:1244513813,0a07d9f301aaa110d7afa88c47be625a:2140472075,75079ae6f4a261105755af7a8a9ab7a1:1244513813</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Niaid_floor">51266e331beea110fdd8848ce54bcbec</sys_audit_delete>
+        <sys_audit_delete display_value="">51266e331beea110fdd8848ce54bcbec</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:25:27</sys_created_on>

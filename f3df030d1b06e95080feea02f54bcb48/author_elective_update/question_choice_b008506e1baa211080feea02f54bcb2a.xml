@@ -82,7 +82,7 @@
         <update_guid_history>8108506e15aa2110d9ea79eeaefd5c2d:-1819481245,740759f386aaa110bd7c0899f36c9459:-1287562550,8108506e15aa2110d9ea79eeaefd5c2d:-1819481245</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="No">c6a4e6ff1baea110fdd8848ce54bcbc8</sys_audit_delete>
+        <sys_audit_delete display_value="">c6a4e6ff1baea110fdd8848ce54bcbc8</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:18:57</sys_created_on>

@@ -169,7 +169,7 @@
         <update_guid_history>da6a18627aea2110d706d3cc8dda3970:-331229637</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Is there anything more we should know to help us meet your space needs?">9b4bce2e1b62611080feea02f54bcb70</sys_audit_delete>
+        <sys_audit_delete display_value="">9b4bce2e1b62611080feea02f54bcb70</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-04 23:15:46</sys_created_on>

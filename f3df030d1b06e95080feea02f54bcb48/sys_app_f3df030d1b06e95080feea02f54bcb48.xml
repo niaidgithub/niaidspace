@@ -29,15 +29,15 @@
         <sys_created_by>bassem</sys_created_by>
         <sys_created_on>2023-04-05 15:53:05</sys_created_on>
         <sys_id>f3df030d1b06e95080feea02f54bcb48</sys_id>
-        <sys_mod_count>63</sys_mod_count>
+        <sys_mod_count>64</sys_mod_count>
         <sys_updated_by>jatothr2</sys_updated_by>
-        <sys_updated_on>2023-10-19 21:33:56</sys_updated_on>
+        <sys_updated_on>2023-12-14 20:51:51</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.34</version>
+        <version>1.0.35</version>
     </sys_app>
 </record_update>

@@ -51,7 +51,7 @@
         <update_guid_history>0ff6ea7393eea1105866b7b264e26fe7:-279557142</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Niaid_floor">20fa22b71beea110fdd8848ce54bcb0e</sys_audit_delete>
+        <sys_audit_delete display_value="">20fa22b71beea110fdd8848ce54bcb0e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:46:25</sys_created_on>
