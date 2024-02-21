@@ -59,7 +59,7 @@
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text><![CDATA[<p><strong>Click on the provided link to download the required form for request submittal. Once completed, save your form, and attach it in the provided attachment field</strong></p>
-<p><a href="/sys_attachment.do?sys_id&#61;b333d8421bb8f110fdd8848ce54bcbf9" target="_blank" rel="noopener noreferrer nofollow">Download Here</a></p>]]></rich_text>
+<p><a href="/sys_attachment.do?sys_id&#61;d44ec4a087e00a50cf56fc09cebb35d5" target="_blank" rel="noopener noreferrer nofollow">Download Here</a></p>]]></rich_text>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated 
  * `current`- GlideRecord produced by Record Producer
@@ -78,14 +78,14 @@
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-01 20:38:09</sys_created_on>
         <sys_id>d4350e251b2ea910fdd8848ce54bcb8d</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Attachments</sys_name>
         <sys_package display_value="NIAID Space" source="x_g_nioa_niaid_spa">f3df030d1b06e95080feea02f54bcb48</sys_package>
         <sys_policy/>
         <sys_scope display_value="NIAID Space">f3df030d1b06e95080feea02f54bcb48</sys_scope>
         <sys_update_name>item_option_new_d4350e251b2ea910fdd8848ce54bcb8d</sys_update_name>
         <sys_updated_by>jatothr2</sys_updated_by>
-        <sys_updated_on>2023-08-23 17:04:12</sys_updated_on>
+        <sys_updated_on>2024-02-21 20:38:24</sys_updated_on>
         <table/>
         <tooltip/>
         <type>32</type>
