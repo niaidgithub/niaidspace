@@ -169,7 +169,7 @@
         <update_guid_history>94c4ad7318eaa1107827d12a2a1f0177:2051775684,3cb46d737beaa1109eabb28ed322ca8f:1003037109,fa05ea3277e2a11024acfc896fc30277:2051775684,090759f3a3aaa110eb888bad4ee9c391:-442856471,fa05ea3277e2a11024acfc896fc30277:2051775684,ff1a4eeac3626110a3d460669ec073d5:1014459459,c70a0eeacf626110c28b17eafa493e81:677998114</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Describe any adjacencies your require with other NIAID or NIH organizations">92e1ee3f1baea110fdd8848ce54bcbee</sys_audit_delete>
+        <sys_audit_delete display_value="">92e1ee3f1baea110fdd8848ce54bcbee</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-05-08 22:06:57</sys_created_on>

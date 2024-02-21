@@ -42,7 +42,7 @@
         <update_guid_history>a97c85e04782fdd085c6bd657639393e:547687479,4e7efaecce86fd90c86a220e49529cc4:4198083,4cfab1d4b20e7d90ad007ad7f0addb01:547687479,1aaa3d94130e7d90aa36eb934e207160:567661112</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Vendor_OWS.Request for Additional NIAID Space">e623d7ae87cff1506cbb42e60cbb35ec</sys_audit_delete>
+        <sys_audit_delete display_value="">e623d7ae87cff1506cbb42e60cbb35ec</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-12-14 21:12:17</sys_created_on>

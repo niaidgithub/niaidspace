@@ -42,7 +42,7 @@
         <update_guid_history>1055ee322ce2a110d3c408f8b047d1b7:782253126,2207d9f337aaa110a14759bd0ed9b9da:0,1055ee322ce2a110d3c408f8b047d1b7:782253126,688a72cf15c22510b0076756dc401466:1942459516,d6a3324bfcc22510a068623a8fe44710:1787995340</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Current and projected.Request for Additonal NIAID Space">82229c021bb8f110fdd8848ce54bcbf1</sys_audit_delete>
+        <sys_audit_delete display_value="">82229c021bb8f110fdd8848ce54bcbf1</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>jatothr2</sys_created_by>
         <sys_created_on>2023-08-22 21:30:48</sys_created_on>
